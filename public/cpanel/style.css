@@ -1,0 +1,70 @@
+*{
+    
+}
+
+h2{
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+div.produkt{
+    background-color: #c0c0c0;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    
+}
+
+button{
+    background-color: #545454;
+}
+
+div.produkt img{
+    margin-top: 1em;
+    text-align:center;
+}
+
+div.produkt{
+    margin-left: 2em;
+}
+
+
+
+
+div.alle{
+    margin: 0 auto;
+}
+
+div.footer{
+    background-color: #414141;
+    color: #FFF;
+}
+
+div.footer p{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    margin-left:1em;
+}
+
+footer{
+    clear: both;
+}
+
+.tlf{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    font-weight: bold;
+}
+
+#content_1{
+    color: #FFF;
+}
+
+.form{
+    display:inline-block;
+    margin-top:1em;
+}
+
+.form input{
+    margin-bottom:1em;
+}
+
+.form select{
+   display:block;
+}

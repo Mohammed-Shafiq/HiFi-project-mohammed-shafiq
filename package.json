@@ -1,0 +1,26 @@
+{
+  "name": "hifi",
+  "version": "1.0.0",
+  "description": "## Overordnede mening angående opgave og status",
+  "main": "app.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "browsersync": "^0.0.1-security",
+    "json": "^9.0.6",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi73c-praktisk-web/HiFi-project-mohammed-shafiq.git"
+  },
+  "author": "Mohammed A. Shafiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi73c-praktisk-web/HiFi-project-mohammed-shafiq/issues"
+  },
+  "homepage": "https://github.com/wi73c-praktisk-web/HiFi-project-mohammed-shafiq#readme"
+}
